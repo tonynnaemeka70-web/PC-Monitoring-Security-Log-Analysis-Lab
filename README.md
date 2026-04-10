@@ -31,5 +31,6 @@ See [`Sysmon Security Monitoring Lab Report`](Sysmon%20Security%20Monitoring%20L
 for full details on setup, findings, and recommendations.
 
 AUTHOR
+
 Tony Nnaemeka- cyber security specialist and SOC Analyst
 
