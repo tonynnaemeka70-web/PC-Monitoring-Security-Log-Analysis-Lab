@@ -46,8 +46,11 @@ My Findings
  I saw and identify events IDS for process start, power shell use, system failed login
 
 Event Type ,       Event ID,     Description                                       timestamp
+
 procss creation        1            Notepad.exe and calculator                        1:20pm
-PowerShell commands    1             Get-process executd                               1:27pm                           
+
+PowerShell commands    1             Get-process executd                               1:27pm
+
 failed logon           12           incorrect password attempts                       1:43pm
 
 
