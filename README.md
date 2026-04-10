@@ -17,14 +17,19 @@ This project demonstrates basic security monitoring on a Windows PC using [Sysmo
 - Write a short incident report with security recommendations
 
 4. Screenshots
+   
 Screenshots are stored in the `/assets` folder:
+
 - `screenshot_sysmon_operational.png`
 - `screenshot_security_failed_login.png`
 - `screenshot_powershell_activity.png`
 
 5 Report
-See [`Sysmon Security Monitoring Lab Report`](Sysmon%20Security%20Monitoring%20Lab%20Report.md) for full details on setup, findings, and recommendations.
 
-**Tony (SOOD ELIASER)**  
-Isheri, Ogun State, Nigeria  
-November 2025
+See [`Sysmon Security Monitoring Lab Report`](Sysmon%20Security%20Monitoring%20Lab%20Report.md)
+
+for full details on setup, findings, and recommendations.
+
+AUTHOR
+Tony Nnaemeka- cyber security specialist and SOC Analyst
+
