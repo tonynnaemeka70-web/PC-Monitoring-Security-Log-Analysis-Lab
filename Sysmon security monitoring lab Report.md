@@ -8,7 +8,6 @@ Configuration File: sysmonconfig-export.xml from SwiftOnSecurity GitHub repo
 
 System: Windows 10 pro
 
-User: tony nnaemeka
 
  Objective
 
