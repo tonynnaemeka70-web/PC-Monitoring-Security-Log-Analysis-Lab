@@ -1,6 +1,16 @@
 PC Monitoring & Security Log Analysis Lab (SOC Simulation)
 
-This project demonstrates basic security monitoring on a Windows PC using [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) and Windows Event Viewer. It was completed as part of my cybersecurity learning journey.
+Project Overview
+
+This project simulates a Security Operations Center (SOC) monitoring environment where system logs are collected, analyzed, and investigated to detect suspicious activity and potential security incidents.
+
+seconddly it demonstrates basic security monitoring on a Windows PC using [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) and Windows Event Viewer. It was completed as part of my cybersecurity learning journey.
+
+
+The objective is to demonstrate practical skills in:
+Log analysis and interpretation
+Incident detection and response simulation
+Security monitoring workflows used in SOC environments
 
 2.  Tools Used
 - **Sysmon64 v15.15** – System activity monitor from Sysinternals
