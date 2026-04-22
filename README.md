@@ -125,7 +125,7 @@ This project demonstrates foundational SOC analyst capabilities in identifying a
 
 simulates real-world monitoring tasks used in Security Operations Centers.
 
--Future Improvements
+Future Improvements
 
 -Integrate ELK Stack for centralized logging
 
