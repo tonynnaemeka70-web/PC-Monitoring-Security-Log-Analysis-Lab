@@ -4,7 +4,7 @@ Project Overview
 
 This project simulates a Security Operations Center (SOC) monitoring environment where system logs are collected, analyzed, and investigated to detect suspicious activity and potential security incidents.
 
-seconddly it demonstrates basic security monitoring on a Windows PC using [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) and Windows Event Viewer. It was completed as part of my cybersecurity learning journey.
+soundly it demonstrates basic security monitoring on a Windows PC using [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) and Windows Event Viewer. It was completed as part of my cybersecurity learning journey.
 
 
 The objective is to demonstrate practical skills in:
@@ -136,13 +136,11 @@ Future Improvements
 -Expand into full SIEM-based monitoring lab
 
 
-5 Report
+ Report
 
 See [`Sysmon Security Monitoring Lab Report`](Sysmon%20Security%20Monitoring%20Lab%20Report.md)
 
 for full details on setup, findings, and recommendations.
 
-AUTHOR
 
-Tony Nnaemeka- cyber security specialist and SOC Analyst
 
